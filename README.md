@@ -1,6 +1,6 @@
 # Introdução ao React Native
 
-**Certificado: ** https://www.dio.me/certificate/BE4AE91B/share
+**Certificado:** https://www.dio.me/certificate/BE4AE91B/share
 
 ![image](https://i.imgur.com/4Aa7yw0.png)
 
